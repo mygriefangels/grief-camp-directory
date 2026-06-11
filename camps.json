@@ -1,1 +1,894 @@
-{"updatedAt": "", "camps": []}
+{
+  "updatedAt": "2026-06-11T16:52:49.139413+00:00",
+  "camps": [
+    {
+      "id": "auto1",
+      "name": "Camp Erin (National Network)",
+      "org": "Eluna",
+      "founded": 2002,
+      "email": "",
+      "phone": "",
+      "website": "https://elunanetwork.org/eluna-camps/camp-erin/",
+      "lossTypes": [
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "Multiple locations nationwide",
+      "state": "—",
+      "dates": "Year-round sessions in 32+ locations across the U.S. — contact local partner or visit site to find a camp near you",
+      "startDate": null,
+      "durationDays": 2,
+      "ageGroups": [
+        "children",
+        "teens",
+        "families"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English",
+        "Spanish"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Free to all families thanks to Eluna and New York Life Foundation",
+      "financialAid": false
+    },
+    {
+      "id": "auto2",
+      "name": "Camp Erin Online",
+      "org": "Eluna",
+      "founded": 2020,
+      "email": "",
+      "phone": "",
+      "website": "https://elunanetwork.org/eluna-camps/camp-erin-online/",
+      "lossTypes": [
+        "multiple"
+      ],
+      "format": "virtual",
+      "city": "Online",
+      "state": "—",
+      "dates": "Ongoing virtual grief support groups and programs; see site for current schedule",
+      "startDate": null,
+      "durationDays": 1,
+      "ageGroups": [
+        "children",
+        "teens",
+        "families"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Free online grief support groups and programs",
+      "financialAid": false
+    },
+    {
+      "id": "auto3",
+      "name": "Camp Erin Santa Cruz",
+      "org": "Hospice of Santa Cruz County",
+      "founded": 2002,
+      "email": "camperin@hospicesantacruz.org",
+      "phone": "831-430-3007",
+      "website": "https://www.hospicesantacruz.org/grief-support/camp-erin/",
+      "lossTypes": [
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "Santa Cruz Mountains",
+      "state": "CA",
+      "dates": "Annual overnight weekend — 2026 session was June 5–7 (now full; 2027 dates TBA)",
+      "startDate": "2026-06-05",
+      "durationDays": 3,
+      "ageGroups": [
+        "children",
+        "teens"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": true,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Free to all campers",
+      "financialAid": false
+    },
+    {
+      "id": "auto4",
+      "name": "Camp Erin South Florida",
+      "org": "Catholic Health Services / Catholic Hospice",
+      "founded": 2002,
+      "email": "CampErin@catholichospice.org",
+      "phone": "954-944-2709",
+      "website": "https://www.catholichealthservices.org/hospice/camp-erin/",
+      "lossTypes": [
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "South Florida",
+      "state": "FL",
+      "dates": "Spring and Fall sessions — apply by May 29, 2026 for upcoming camp; Fall dates TBA",
+      "startDate": null,
+      "durationDays": 2,
+      "ageGroups": [
+        "children",
+        "teens"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "interfaith",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Free to all families",
+      "financialAid": false
+    },
+    {
+      "id": "auto5",
+      "name": "Camp Erin Lincoln",
+      "org": "Mourning Hope Grief Center",
+      "founded": 2002,
+      "email": "hdacosta@mourninghope.org",
+      "phone": "402-488-8989",
+      "website": "https://www.mourninghope.org/services/programs/camperin.html",
+      "lossTypes": [
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "Lincoln",
+      "state": "NE",
+      "dates": "Annual weekend — 2026 session October 16–18; 2027 dates TBA",
+      "startDate": "2026-10-16",
+      "durationDays": 3,
+      "ageGroups": [
+        "children",
+        "teens"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Free to all campers",
+      "financialAid": false
+    },
+    {
+      "id": "auto6",
+      "name": "Camp Forget-Me-Not / Camp Erin DC",
+      "org": "Wendt Center for Loss and Healing",
+      "founded": 2002,
+      "email": "camp@wendtcenter.org",
+      "phone": "",
+      "website": "https://www.wendtcenter.org/camp-forget-me-not-camp-erin-dc/",
+      "lossTypes": [
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "Washington",
+      "state": "DC",
+      "dates": "Annual one-day day camps in three age-group sessions (2025: June 28, July 12, July 26); 2026 dates TBA",
+      "startDate": null,
+      "durationDays": 1,
+      "ageGroups": [
+        "children",
+        "teens"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Free to all campers",
+      "financialAid": false
+    },
+    {
+      "id": "auto7",
+      "name": "Comfort Zone Camp",
+      "org": "Comfort Zone Camp",
+      "founded": 1998,
+      "email": "info@comfortzonecamp.org",
+      "phone": "866-488-5679",
+      "website": "https://comfortzonecamp.org/",
+      "lossTypes": [
+        "parent",
+        "sibling",
+        "suicide",
+        "overdose",
+        "multiple"
+      ],
+      "format": "hybrid",
+      "city": "Multiple locations (VA, NJ, NC, MA, CA and more)",
+      "state": "—",
+      "dates": "Year-round weekend camps at multiple U.S. locations; virtual CZC At Home also available — see site for current calendar",
+      "startDate": null,
+      "durationDays": 3,
+      "ageGroups": [
+        "children",
+        "teens",
+        "youngAdults"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Free to all campers and young adults (ages 7–25)",
+      "financialAid": false
+    },
+    {
+      "id": "auto8",
+      "name": "Comfort Zone Camp — Suicide Loss Camp",
+      "org": "Comfort Zone Camp",
+      "founded": 2015,
+      "email": "info@comfortzonecamp.org",
+      "phone": "866-488-5679",
+      "website": "https://comfortzonecamp.org/suicideloss/",
+      "lossTypes": [
+        "suicide"
+      ],
+      "format": "in-person",
+      "city": "Johnsonburg, NJ and Ortonville, MI",
+      "state": "NJ",
+      "dates": "2026 sessions: May 15–17 (Camp Johnsonburg, NJ); September 18–20 (Camp Tamarack, MI)",
+      "startDate": "2026-05-15",
+      "durationDays": 3,
+      "ageGroups": [
+        "children",
+        "teens"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Free; specifically for children who lost a loved one to suicide",
+      "financialAid": false
+    },
+    {
+      "id": "auto9",
+      "name": "Experience Camps",
+      "org": "Experience Camps",
+      "founded": 2009,
+      "email": "",
+      "phone": "",
+      "website": "https://experiencecamps.org/",
+      "lossTypes": [
+        "parent",
+        "sibling",
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "Multiple locations (ME, GA, MD, TX, MI, PA, CA, CT)",
+      "state": "—",
+      "dates": "Annual one-week overnight summer camps — 2026 summer sessions open; visit site for locations and dates",
+      "startDate": null,
+      "durationDays": 7,
+      "ageGroups": [
+        "children",
+        "teens"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": false,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Free one-week overnight camp for grieving children (grades 4–12 depending on location)",
+      "financialAid": false
+    },
+    {
+      "id": "auto10",
+      "name": "Experience Camps — Adult Retreat",
+      "org": "Experience Camps",
+      "founded": 2019,
+      "email": "",
+      "phone": "",
+      "website": "https://experiencecamps.org/our-programs/adult-retreat",
+      "lossTypes": [
+        "parent",
+        "sibling",
+        "spouse",
+        "child",
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "TBD",
+      "state": "—",
+      "dates": "Annual weekend retreat for adults — dates and location TBA; check site for updates",
+      "startDate": null,
+      "durationDays": 3,
+      "ageGroups": [
+        "adults"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Cost TBA — check site for registration details",
+      "financialAid": true
+    },
+    {
+      "id": "auto11",
+      "name": "Camp COPE",
+      "org": "COPE Foundation",
+      "founded": 2005,
+      "email": "afuchs@copefoundation.org",
+      "phone": "",
+      "website": "https://www.copefoundation.org/camp-cope/",
+      "lossTypes": [
+        "parent",
+        "sibling",
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "Pennsylvania (lake camp setting)",
+      "state": "PA",
+      "dates": "Annual weekend camp — 2026 application open; contact for dates",
+      "startDate": null,
+      "durationDays": 3,
+      "ageGroups": [
+        "children",
+        "teens",
+        "adults"
+      ],
+      "gender": "all",
+      "familyStatus": [
+        "parents"
+      ],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Free for children (ages 7–17); concurrent parent/caregiver retreat requests a $100 donation; no one turned away for inability to pay",
+      "financialAid": true
+    },
+    {
+      "id": "auto12",
+      "name": "Camp Good Grief (IU Health)",
+      "org": "IU Health Hospice Bereavement",
+      "founded": 2010,
+      "email": "campgoodgrief@iuhealth.org",
+      "phone": "765-838-5780",
+      "website": "https://iuhealth.org/patient-family-support/support-care/camp-good-grief",
+      "lossTypes": [
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "Multiple Indiana locations",
+      "state": "IN",
+      "dates": "Annual one-day camps at multiple Indiana sites — one 2025 session listed August 2; 2026 dates TBA",
+      "startDate": null,
+      "durationDays": 1,
+      "ageGroups": [
+        "children",
+        "teens"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Free one-day camp for children ages 6–16",
+      "financialAid": false
+    },
+    {
+      "id": "auto13",
+      "name": "A Camp to Remember / A Retreat to Remember / A Family Camp to Remember",
+      "org": "Tamarack Grief Resource Center",
+      "founded": 1997,
+      "email": "",
+      "phone": "",
+      "website": "https://www.tamarackgrc.org/camps-retreats",
+      "lossTypes": [
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "Montana (pines and mountain lakes)",
+      "state": "MT",
+      "dates": "Annual overnight summer camp (youth, families) and adult weekend retreat — 2026/2027 dates TBA; contact org for schedule",
+      "startDate": null,
+      "durationDays": 3,
+      "ageGroups": [
+        "children",
+        "teens",
+        "adults",
+        "families"
+      ],
+      "gender": "all",
+      "familyStatus": [
+        "parents",
+        "siblings",
+        "spouses",
+        "grandparents"
+      ],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Cost not published on site — contact Tamarack for fees and scholarship information",
+      "financialAid": true
+    },
+    {
+      "id": "auto14",
+      "name": "Women's Rendezvous Grief Retreat",
+      "org": "Tamarack Grief Resource Center",
+      "founded": 1997,
+      "email": "",
+      "phone": "",
+      "website": "https://www.tamarackgrc.org/camps-retreats",
+      "lossTypes": [
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "Flathead Lake / Montana mountains",
+      "state": "MT",
+      "dates": "Annual women's weekend retreat — 2026/2027 dates TBA; contact org for schedule",
+      "startDate": null,
+      "durationDays": 3,
+      "ageGroups": [
+        "adults"
+      ],
+      "gender": "women",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Cost not published on site — contact Tamarack for fees and scholarship information",
+      "financialAid": true
+    },
+    {
+      "id": "auto15",
+      "name": "Child Loss Retreat at Faith's Lodge",
+      "org": "Child Loss Foundation (formerly Faith's Lodge)",
+      "founded": 2007,
+      "email": "",
+      "phone": "",
+      "website": "https://www.childlossfoundation.org/child-loss-retreats",
+      "lossTypes": [
+        "child",
+        "infant"
+      ],
+      "format": "in-person",
+      "city": "Danbury",
+      "state": "WI",
+      "dates": "Nearly every weekend year-round; retreats segmented by cause and age of death (pregnancy/stillbirth, infant, youth/teen, overdose, suicide, homicide, and more) — see site for calendar",
+      "startDate": null,
+      "durationDays": 4,
+      "ageGroups": [
+        "adults"
+      ],
+      "gender": "all",
+      "familyStatus": [
+        "parents"
+      ],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 50.0,
+      "costNote": "Approximately $50/night per person (includes meals, lodging, programming); financial assistance available for first-time guests",
+      "financialAid": true
+    },
+    {
+      "id": "auto16",
+      "name": "Selah Carefarm Retreat (MISS Foundation)",
+      "org": "MISS Foundation",
+      "founded": 2001,
+      "email": "genmitsu@missfoundation.org",
+      "phone": "",
+      "website": "https://www.missfoundation.org/carefarm-program-traumatic-grief/",
+      "lossTypes": [
+        "child",
+        "suicide",
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "Arizona (Selah Carefarm & Andy's Sanctuary)",
+      "state": "AZ",
+      "dates": "Rolling schedule — Wed–Sat group and individual programs; contact to request available dates",
+      "startDate": null,
+      "durationDays": 4,
+      "ageGroups": [
+        "adults"
+      ],
+      "gender": "all",
+      "familyStatus": [
+        "parents",
+        "siblings",
+        "spouses"
+      ],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": true,
+      "recoveryFocused": false,
+      "cost": 1500.0,
+      "costNote": "Group (Roots) program: $1,500/person includes 3 vegan meals/day; individual (Bodhi/Tasoom) programs vary ($1,400+). Primary focus on traumatic/child loss.",
+      "financialAid": false
+    },
+    {
+      "id": "auto17",
+      "name": "Camp Widow (Soaring Spirits International)",
+      "org": "Soaring Spirits International",
+      "founded": 2009,
+      "email": "angeline@soaringspirits.org",
+      "phone": "",
+      "website": "https://campwidow.org/",
+      "lossTypes": [
+        "spouse"
+      ],
+      "format": "hybrid",
+      "city": "Multiple U.S. cities (Chicago, Tampa, San Diego and more) plus virtual",
+      "state": "—",
+      "dates": "Multiple weekend events per year across U.S. locations — see campwidow.org for current event calendar; financial aid (camperships) available",
+      "startDate": null,
+      "durationDays": 3,
+      "ageGroups": [
+        "adults"
+      ],
+      "gender": "all",
+      "familyStatus": [
+        "spouses"
+      ],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 399.0,
+      "costNote": "Registration fees vary by event (typically $399–$699 per person); camperships available so cost is never a barrier",
+      "financialAid": true
+    },
+    {
+      "id": "auto18",
+      "name": "A Memory Grows — Child Loss Retreats",
+      "org": "A Memory Grows",
+      "founded": 2017,
+      "email": "info@amemorygrows.org",
+      "phone": "682-214-4608",
+      "website": "https://amemorygrows.org/retreats/",
+      "lossTypes": [
+        "child",
+        "infant",
+        "suicide",
+        "overdose",
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "Fort Worth",
+      "state": "TX",
+      "dates": "Seven 4-day retreats per year segmented by loss type (older child, infant, suicide, homicide, fentanyl) — 2026 retreats include Jan 22–25, Feb 19–22 and more; see site for full calendar",
+      "startDate": "2026-01-22",
+      "durationDays": 4,
+      "ageGroups": [
+        "adults"
+      ],
+      "gender": "all",
+      "familyStatus": [
+        "parents"
+      ],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 350.0,
+      "costNote": "$350 non-refundable registration fee includes lodging, programming, and materials; scholarships available",
+      "financialAid": true
+    },
+    {
+      "id": "auto19",
+      "name": "Golden Willow Retreat",
+      "org": "Golden Willow Retreat",
+      "founded": 2009,
+      "email": "",
+      "phone": "575-776-2024",
+      "website": "https://www.goldenwillowretreat.org/",
+      "lossTypes": [
+        "multiple"
+      ],
+      "format": "hybrid",
+      "city": "Taos",
+      "state": "NM",
+      "dates": "Personalized grief intensives available year-round by appointment; free online and in-person support groups ongoing — contact for available dates",
+      "startDate": null,
+      "durationDays": 3,
+      "ageGroups": [
+        "adults"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Free support groups (online and in-person); individual grief intensives and retreats are paid — contact for pricing",
+      "financialAid": false
+    },
+    {
+      "id": "auto20",
+      "name": "Faith & Grief Retreat",
+      "org": "Faith & Grief Ministries",
+      "founded": 2010,
+      "email": "info@faithandgrief.org",
+      "phone": "469-616-1795",
+      "website": "https://www.faithandgrief.org/griefretreat/",
+      "lossTypes": [
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "Hunt (Mo Ranch)",
+      "state": "TX",
+      "dates": "Annual weekend retreat — 2026 session February 20–22 at Mo Ranch, Hunt, TX; 2027 dates TBA. Limited scholarships available.",
+      "startDate": "2026-02-20",
+      "durationDays": 3,
+      "ageGroups": [
+        "adults"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "faith-based",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Cost not published; limited scholarships available — contact shelley@faithandgrief.org",
+      "financialAid": true
+    },
+    {
+      "id": "auto21",
+      "name": "Journeys Grief Camps (Hospice of the Piedmont)",
+      "org": "Hospice of the Piedmont — Kids' Grief and Healing Program",
+      "founded": 2000,
+      "email": "kidsgrief@hopva.org",
+      "phone": "434-817-6915",
+      "website": "https://hopva.org/kids-grief-and-healing/",
+      "lossTypes": [
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "Charlottesville area",
+      "state": "VA",
+      "dates": "Multiple day camps throughout the year — 2026 sessions include June 13 (Verdun Adventure Bound) and October 10 equine camp (Ride with Pride, Staunton, VA); additional dates TBA",
+      "startDate": "2026-06-13",
+      "durationDays": 1,
+      "ageGroups": [
+        "children",
+        "teens"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": true,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Free to participants thanks to community philanthropy",
+      "financialAid": false
+    },
+    {
+      "id": "auto22",
+      "name": "Camp BraveHeart (HopeHealth)",
+      "org": "HopeHealth",
+      "founded": 2005,
+      "email": "",
+      "phone": "",
+      "website": "https://childrensroom.org/resources/summer-programs/",
+      "lossTypes": [
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "Multiple MA and RI locations",
+      "state": "MA",
+      "dates": "Annual two-day summer camp — 2026 dates: July 16–17 (MA) and August 20–21 (RI)",
+      "startDate": "2026-07-16",
+      "durationDays": 2,
+      "ageGroups": [
+        "children",
+        "teens"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Free; day camp for children and teens ages 5–17",
+      "financialAid": false
+    },
+    {
+      "id": "auto23",
+      "name": "Camp Erin Minnesota (Brighter Days Family Grief Center)",
+      "org": "Brighter Days Family Grief Center",
+      "founded": 2002,
+      "email": "",
+      "phone": "",
+      "website": "https://brighterdaysgriefcenter.org/camp-erin-twin-cities/",
+      "lossTypes": [
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "Twin Cities area",
+      "state": "MN",
+      "dates": "Annual day camp — 2025/2026 dates TBA; contact Brighter Days for current schedule",
+      "startDate": null,
+      "durationDays": 1,
+      "ageGroups": [
+        "children",
+        "teens",
+        "families"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Free to all youth and families",
+      "financialAid": false
+    },
+    {
+      "id": "auto24",
+      "name": "Spark of Life Grief Retreat",
+      "org": "Spark of Life (nonprofit)",
+      "founded": 2012,
+      "email": "",
+      "phone": "",
+      "website": "https://sparkoflife.org/retreats",
+      "lossTypes": [
+        "child",
+        "parent",
+        "sibling",
+        "friend",
+        "suicide",
+        "multiple"
+      ],
+      "format": "hybrid",
+      "city": "Multiple U.S. locations",
+      "state": "—",
+      "dates": "In-person and online retreats offered on multiple dates throughout the year — see site for current schedule and registration",
+      "startDate": null,
+      "durationDays": 2,
+      "ageGroups": [
+        "adults"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 0,
+      "costNote": "Nonprofit; cost not published on site — contact for registration fees",
+      "financialAid": false
+    },
+    {
+      "id": "auto25",
+      "name": "Conscious Grieving Retreat (Claire Bidwell Smith)",
+      "org": "Claire Bidwell Smith Wellness",
+      "founded": 2016,
+      "email": "support@clairebidwellsmith.com",
+      "phone": "",
+      "website": "https://clairebidwellsmith.com/conscious-grieving-retreat/",
+      "lossTypes": [
+        "multiple"
+      ],
+      "format": "in-person",
+      "city": "Mill Valley",
+      "state": "CA",
+      "dates": "Annual retreat at Ralston White Retreat Center, Mill Valley, CA — 2026/2027 dates TBA; join mailing list for announcements",
+      "startDate": null,
+      "durationDays": 4,
+      "ageGroups": [
+        "adults"
+      ],
+      "gender": "all",
+      "familyStatus": [],
+      "recentLossOk": true,
+      "religious": "secular",
+      "languages": [
+        "English"
+      ],
+      "animalTherapy": false,
+      "recoveryFocused": false,
+      "cost": 800.0,
+      "costNote": "Paid retreat; cost varies — see site for current pricing and payment plan options",
+      "financialAid": false
+    }
+  ]
+}
